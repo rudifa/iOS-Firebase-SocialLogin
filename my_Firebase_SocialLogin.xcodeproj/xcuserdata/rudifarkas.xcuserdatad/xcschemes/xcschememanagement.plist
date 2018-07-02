@@ -7,7 +7,20 @@
 		<key>my_Firebase_SocialLogin.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9DB9295620EA543000821B78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9DB9296A20EA543200821B78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

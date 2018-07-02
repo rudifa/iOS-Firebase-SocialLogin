@@ -1,0 +1,6 @@
+framework module Pods_my_Firebase_SocialLogin {
+  umbrella header "Pods-my_Firebase_SocialLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
